@@ -1,0 +1,19 @@
+{
+  "name": "lab-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shalithacode/SLIIT-AF-LAB.git"
+  },
+  "author": "it19161884",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shalithacode/SLIIT-AF-LAB/issues"
+  },
+  "homepage": "https://github.com/shalithacode/SLIIT-AF-LAB#readme"
+}
